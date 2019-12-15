@@ -1,0 +1,55 @@
+﻿  ball.cpp
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(6,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(6,24): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(6,24): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(6,24): warning C4244:             T=float
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(6,24): warning C4244:         ]
+  game.cpp
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(7,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(7,24): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(7,24): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(7,24): warning C4244:             T=float
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\ball.cpp(7,24): warning C4244:         ]
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(20,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(20,43): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(20,43): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(20,43): warning C4244:             T=unsigned int
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(20,43): warning C4244:         ]
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(25,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(25,45): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(25,45): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(25,45): warning C4244:             T=unsigned int
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(25,45): warning C4244:         ]
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(284,71): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(284,71): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(284,71): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(284,71): warning C4244:             _Ty=int
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(284,71): warning C4244:         ]
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(291,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(294,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(286,11): warning C4101: 'y': unreferenced local variable
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(286,8): warning C4101: 'x': unreferenced local variable
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(319,71): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(319,71): warning C4244:         with
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(319,71): warning C4244:         [
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(319,71): warning C4244:             _Ty=int
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(319,71): warning C4244:         ]
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(327,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(329,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(342,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(380,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(388,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(390,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(403,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  MainMenu.cpp
+  Menu.cpp
+  MoveableObject.cpp
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\game.cpp(410,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\MoveableObject.cpp(63,42): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+  OverMessage.cpp
+  Paddle.cpp
+  PauseMenu.cpp
+  PongGameP2.cpp
+C:\Users\DELL\Desktop\Pong_game_P2\PongGameP2\PongGameP2\MoveableObject.cpp(64,42): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
